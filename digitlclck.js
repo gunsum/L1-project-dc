@@ -20,6 +20,8 @@ let clock = () => {
   };
   
   clock();
+
+  //if you want to do coding about digital clock this is an example
   
 
   
